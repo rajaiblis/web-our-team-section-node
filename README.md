@@ -1,19 +1,24 @@
-![Screenshot](https://res.cloudinary.com/turnup/image/upload/v1526512881/homepage-cards.png)
+# Landing Page Profile Section in NodeJS
 
-# First Node Website Tutorial Starter Files
-
-These are the starter files to accompany the tutorial for building a simple Node.js website with Express and Pug.
-
-You can [access the tutorial here](https://freshman.tech/learn-node).
-
-[Live demo](https://freshman-node.herokuapp.com/)
+Membuat simple Node.js website menggunakan Express dan Pug.
 
 ## Instructions
 1. Clone repo
 2. Run `npm install`
 
-## Getting Help
+## Catatan
 
-Need some help? Leave a comment on the tutorial — this repo is meant as a place to grab the starter files and isn't a support channel.
+anda bisa ganti foto dibagian people.json 
+nama file foto nya disamakan dengan nama file .jpg yang ada di public/images (alias dibagian  "imgSrc": "ihsan.jpg")
+anda bisa edit nama orang, bio orang dll di bagian people.json
+
+## Hasil
+- Contoh 1
+![g1](https://1.bp.blogspot.com/-aCCKSMgZg9w/XdqGFXX_npI/AAAAAAAAImY/xYVl9A-c_EI-XPJg6K0D2euA_TAtYQzAACLcBGAsYHQ/s640/web-profile.png)
+- Contoh 2
+![g2](https://1.bp.blogspot.com/-TtYHfuEoqLc/XdqGIzEOfmI/AAAAAAAAImc/5aGDb0NnhPkS2E21p1Bn2Hk4PmC1ov5AACLcBGAsYHQ/s640/web-profile2.png)
+
+Terima kasih
+
 
 
